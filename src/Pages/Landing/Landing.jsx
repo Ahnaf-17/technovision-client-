@@ -1,8 +1,9 @@
+import Banner from "../../components/Banner/Banner";
 
 const Landing = () => {
     return (
         <div>
-            from landing page
+            <Banner></Banner>
         </div>
     );
 };
