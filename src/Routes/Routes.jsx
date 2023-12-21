@@ -15,7 +15,8 @@ export const router = createBrowserRouter([
         children: [
             {
                 path:'/',
-                element:<Landing></Landing>
+                element:<Landing></Landing>,
+                loader: ()=> fetch('/user.json')
             },
             {
                 path:'/login',

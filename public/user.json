@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "type": "Developers",
+        "benefit": "Access to coding resources and tutorials."
+    },
+    {
+        "id": 2,
+        "type": "Corporate Professionals",
+        "benefit": "Networking opportunities and business tools."
+    },
+    {
+        "id": 3,
+        "type": "Bankers",
+        "benefit": "Financial tools and industry insights."
+    },
+    {
+        "id": 4,
+        "type": "Students",
+        "benefit": "Educational materials and career guidance."
+    },
+    {
+        "id": 5,
+        "type": "Entrepreneurs",
+        "benefit": "Startup advice and funding resources."
+    }
+]
