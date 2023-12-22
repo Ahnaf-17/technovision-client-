@@ -6,6 +6,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 
 const Banner = () => {
+    // const {user} = useAuth()
     useEffect(()=>{
         Aos.init()
     },[])
